@@ -94,8 +94,8 @@ This project demonstrates how raw sales data can be converted into actionable in
 
 Computer Science Engineering Graduate | Aspiring Data Analyst
 
-- GitHub: [Your GitHub Profile](https://github.com/)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/)
+- GitHub: [Karan-purkait](https://github.com/Karan-purkait/)
+- LinkedIn: [karan-purkait](https://www.linkedin.com/in/karan-purkait/)
 
 ---
 
